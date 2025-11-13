@@ -1,3 +1,6 @@
+// Nama : Amir Muafiq
+// NIM : 053967231
+
 package Tugas2PBD;
 
 import java.util.Scanner;
@@ -307,3 +310,4 @@ public class Main {
 			}
 		}
 	}
+
